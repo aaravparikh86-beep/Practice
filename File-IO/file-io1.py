@@ -12,9 +12,10 @@ f.close()
 # to read file
 with open("File-IO\\hello.txt",'r') as f:
     a = f.read()
+    print(a)
 
 #to write file
 with open("File-IO\\hello.txt",'w') as f:
-    a = f.write("hi\n")
+    a = f.write("lie\n")
 
 # when we use with we don't need to close
