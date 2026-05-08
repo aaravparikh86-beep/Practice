@@ -1,7 +1,7 @@
 # Syntax for opening a file:
 # open("filename", "mode of opening(read mode by defalt)")
 
-f = open("File-IO\\hello.txt")
+f = open("File-IO\\txt_file\\hello.txt")
 
 # to read from file line by line
 text = f.readline() 
