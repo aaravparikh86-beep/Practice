@@ -1,1 +1,0 @@
-# pip intall NumPy to install NumPy
